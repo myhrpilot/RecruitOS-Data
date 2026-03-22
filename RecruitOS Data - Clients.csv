@@ -1,0 +1,13 @@
+name, industry ,status ,city ,contact ,agreement ,since ,mandates ,closed ,failed, ttf ,cv_int ,ito ,revenue ,lag_apr ,lag_jun ,lag_aug, lag_oct ,lag_dec ,lag_feb ,fy
+Hector Beverages,Soft Beverages,Active,Bengalore,,Contingency,2026,,0,1,,,,,,,,,,,
+Gusto,Hard Beverages,Active,Mumbai,,Contingency,2024,,1,1,,,,,,,,,,,
+Sembcorp,Renewal Energy,Active,Gurugram,,Contingency,2025,,1,0,,,,,,,,,,,
+SRF Limited,Chemicals,Active,Gurugram,,Contingency,2024,,,,,,,,,,,,,,
+SRF Limited,Technical Textile,Active,Gurugram,,Contingency,2024,,,,,,,,,,,,,,
+Kusumgar,Technical Textile,Active,Mumbai,,Contingency,2025,,0,2,,,,,,,,,,,
+Owns Corning,Glass,Active,Mumbai,,Contingency,2025,,1,1,,,,,,,,,,,
+LT Foods,Food,Active,Gurugram,,Contingency,2024,,,,,,,,,,,,,,
+Workmates,IT,Active,Kolkata,,Contingency,2025,,1,4,,,,,,,,,,,
+Vlite,Furniture,Active,Mumbai,,Contingency,2025,,1,0,,,,,,,,,,,
+Banaswara Syntex,Textile,Active,Mumbai,,Contingency,2025,,0,1,,,,,,,,,,,
+DBCB,Reality,Active,Mumbai,,Contingency,2026,,0,1,,,,,,,,,,,

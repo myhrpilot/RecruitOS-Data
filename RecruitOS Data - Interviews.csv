@@ -1,0 +1,2 @@
+id ,candidate ,client ,role ,round ,date ,time ,mode ,interviewer ,status ,outcome ,feedback
+I001,Aryan Sharma,Infosys,Senior Java Developer,Technical,2025-03-20,11:00,Video call,Priya Nair,Completed,Selected,"Strong Java skills, good system design"
